@@ -1,0 +1,174 @@
+{
+  "app": {
+    "title": "Lumina",
+    "subtitle": "Studio de fonds d'écran génératifs",
+    "description": "Créez des fonds d'écran élégants et haute fidélité pour tous vos appareils en quelques secondes. 100 % privé, WebGL côté client.",
+    "github": "Dépôt GitHub",
+    "themeAuto": "Système Auto",
+    "themeLight": "Thème Clair",
+    "themeDark": "Thème Sombre"
+  },
+  "steps": {
+    "style": "Style",
+    "device": "Appareil",
+    "colors": "Couleurs",
+    "theme": "Thème",
+    "download": "Export"
+  },
+  "step1": {
+    "title": "Choisir le style de fond d'écran",
+    "subtitle": "Sélectionnez un moteur graphique génératif. De nouveaux styles seront ajoutés régulièrement.",
+    "active": "Style actif",
+    "comingSoon": "Bientôt disponible"
+  },
+  "step2": {
+    "title": "Choisir votre appareil",
+    "subtitle": "Sélectionnez parmi les résolutions officielles mesurées ou indiquez des dimensions sur mesure.",
+    "categories": {
+      "mac": "Mac",
+      "iphone": "iPhone",
+      "ipad": "iPad",
+      "pc": "PC & Écrans",
+      "android": "Android",
+      "custom": "Personnalisé"
+    },
+    "custom": {
+      "title": "Résolution personnalisée",
+      "width": "Largeur (px)",
+      "height": "Hauteur (px)",
+      "detect": "Détecter mon écran",
+      "detected": "Écran détecté"
+    },
+    "orientation": {
+      "title": "Disposition des capsules",
+      "desktop": "Desktop (Capsules verticales côte à côte)",
+      "mobile": "Mobile (Capsules horizontales empilées)",
+      "toggle": "Inverser l'orientation"
+    },
+    "quality": {
+      "title": "Qualité de rendu",
+      "native": "1× Natif",
+      "supersample15": "1.5× Supersampling",
+      "supersample20": "2× Retina Ultime (Forte mémoire)",
+      "warning": "Le supersampling 2× génère des images géantes (ex: 10240×6656 px) et peut nécessiter quelques secondes."
+    }
+  },
+  "step3": {
+    "title": "Personnaliser les couleurs",
+    "subtitle": "Choisissez une palette officielle, tirez une harmonie aléatoire ou créez vos propres dégradés.",
+    "tabs": {
+      "presets": "16 Palettes officielles",
+      "random": "Aléatoire harmonieux",
+      "custom": "Laboratoire sur mesure"
+    },
+    "random": {
+      "surprise": "Surprends-moi",
+      "mode": "Règle d'harmonie",
+      "seed": "Graine (Seed)",
+      "lockLeft": "Verrouiller rampe gauche",
+      "lockRight": "Verrouiller rampe droite",
+      "history": "Historique",
+      "undo": "Annuler",
+      "redo": "Rétablir"
+    },
+    "custom": {
+      "darkBg": "Fond sombre",
+      "lightBg": "Fond clair (optionnel)",
+      "leftRamp": "Rampe gauche (5 couleurs : sombre vers clair)",
+      "rightRamp": "Rampe droite (5 couleurs : sombre vers clair)",
+      "exportJson": "Exporter en JSON",
+      "importJson": "Importer un JSON",
+      "copyShare": "Copier le lien de partage",
+      "copied": "Lien copié dans le presse-papiers !"
+    }
+  },
+  "language": {
+    "title": "Choisir la langue",
+    "searchPlaceholder": "Rechercher une langue ou un pays...",
+    "noResults": "Aucune langue correspondante",
+    "active": "Actif",
+    "autoDetectNotice": "Détection automatique de la langue activée"
+  },
+  "themeModal": {
+    "title": "Choisir le thème du site",
+    "searchPlaceholder": "Rechercher un thème (Auto, Clair, Sombre)...",
+    "noResults": "Aucun thème correspondant",
+    "active": "Actif",
+    "autoTitle": "Système (Automatique)",
+    "autoDesc": "Bascule automatiquement selon l'apparence de votre appareil",
+    "lightTitle": "Mode Clair",
+    "lightDesc": "Esthétique lumineuse et épurée pour le jour",
+    "darkTitle": "Mode Sombre",
+    "darkDesc": "Apparence sombre reposante pour les yeux et écrans OLED"
+  },
+  "creations": {
+    "title": "Mes Créations",
+    "shortTitle": "Créations",
+    "subtitle": "Fonds d'écran générés dans Lumina Studio",
+    "searchPlaceholder": "Rechercher par palette, appareil, thème...",
+    "emptyTitle": "Aucun fond d'écran généré pour le moment",
+    "emptyDesc": "Personnalisez vos capsules et cliquez sur « Générer mon fond d'écran » à l'étape 4 pour les retrouver ici.",
+    "noMatch": "Aucune création trouvée",
+    "noMatchDesc": "Essayez un autre mot-clé de recherche.",
+    "share": "Partager",
+    "delete": "Supprimer",
+    "clearAll": "Tout effacer",
+    "clickToRestore": "Cliquez sur une création pour charger immédiatement sa configuration"
+  },
+  "step4": {
+    "title": "Apparence & Thème",
+    "subtitle": "Sélectionnez votre mode d'affichage ou préparez un fond dynamique.",
+    "generateButton": "Générer mon fond d'écran",
+    "previewToggleLabel": "Mode d'aperçu direct :",
+    "previewToggleHint": "Basculez entre les versions claire et sombre générées dans votre pack dynamique.",
+    "light": {
+      "title": "Thème Clair",
+      "description": "Esthétique lumineuse de jour avec ombres douces et réfractions de verre translucides."
+    },
+    "dark": {
+      "title": "Thème Sombre",
+      "description": "Fonds OLED profonds avec reflets spéculaires caustiques et lueur ambiante."
+    },
+    "auto": {
+      "title": "Auto (macOS Dynamique)",
+      "description": "Génère un fond d'écran Apple .HEIC dynamique officiel qui bascule automatiquement entre le jour et la nuit selon l'apparence système de macOS."
+    }
+  },
+  "preview": {
+    "livePreview": "Aperçu Direct WebGL 2.0",
+    "toggleFullscreen": "Plein écran",
+    "customScreen": "Écran personnalisé",
+    "previewTheme": "Aperçu du Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "modeDynamic": "Pack Duo Dynamique",
+    "switchPreview": "Basculer"
+  },
+  "step5": {
+    "title": "Téléchargement & Guide",
+    "subtitle": "Votre fond d'écran haute résolution est prêt. Suivez le guide contextuel pour l'installer.",
+    "downloadSingle": "Télécharger le PNG ({res})",
+    "downloadZip": "Télécharger le ZIP (Pack Clair & Sombre)",
+    "downloadHeic": "Télécharger le .HEIC Dynamique ({res})",
+    "downloadHeicDesc": "Fond d'écran dynamique macOS officiel avec bascule automatique Clair & Sombre",
+    "downloadLightPng": "Télécharger le PNG Clair",
+    "downloadDarkPng": "Télécharger le PNG Sombre",
+    "heicUnsupported": "L'encodage matériel .HEIC direct est disponible sur Safari et Chrome sous macOS. Vous pouvez télécharger les deux PNG ci-dessous.",
+    "shareCardTitle": "Partager cette création",
+    "shareCardSubtitle": "Toute personne disposant de ce lien court chargera instantanément votre création exacte.",
+    "copyButton": "Copier le lien",
+    "nativeShare": "Partager...",
+    "shareLink": "Partager cette création",
+    "copied": "Lien copié dans le presse-papiers !",
+    "guideTitle": "Guide d'installation pour {os}",
+    "rendering": "Génération de l'image haute résolution...",
+    "encodingHeic": "Génération du fichier Apple Dynamic .HEIC natif...",
+    "success": "Prêt au téléchargement ! 🎉"
+  },
+  "common": {
+    "prev": "Précédent",
+    "next": "Étape suivante",
+    "px": "px",
+    "close": "Fermer"
+  }
+}

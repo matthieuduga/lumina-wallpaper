@@ -1,0 +1,130 @@
+[
+  {
+    "id": "bleu_cyan",
+    "name": "Bleu Cyan",
+    "bgDark": "#010409",
+    "leftRamp": ["#000005", "#001254", "#006be6", "#33d9ff", "#ebffff"],
+    "rightRamp": ["#000005", "#052a5c", "#1aa0d8", "#66e6f0", "#e6fffc"],
+    "bgLight": null
+  },
+  {
+    "id": "violet_blanc",
+    "name": "Violet Blanc",
+    "bgDark": "#07030f",
+    "leftRamp": ["#0a0612", "#2a1a3a", "#8a7a9a", "#dcdce6", "#ffffff"],
+    "rightRamp": ["#0a0612", "#4a0d6a", "#b030c0", "#e8a0f0", "#f4e8ff"],
+    "bgLight": null
+  },
+  {
+    "id": "aurore",
+    "name": "Aurore",
+    "bgDark": "#05030f",
+    "leftRamp": ["#05041a", "#1a1040", "#c0502a", "#f5a060", "#fde8d8"],
+    "rightRamp": ["#05041a", "#101050", "#6a50c0", "#c0a0f0", "#f0e8ff"],
+    "bgLight": null
+  },
+  {
+    "id": "rose_bleu",
+    "name": "Rose Bleu",
+    "bgDark": "#05030f",
+    "leftRamp": ["#05030f", "#101a60", "#3070e0", "#90c0ff", "#e0f0ff"],
+    "rightRamp": ["#05030f", "#5a0a30", "#d02060", "#f080b0", "#f8e0f0"],
+    "bgLight": null
+  },
+  {
+    "id": "graphite",
+    "name": "Graphite",
+    "bgDark": "#000000",
+    "leftRamp": ["#000000", "#161616", "#404040", "#9a9a9a", "#e0e0e0"],
+    "rightRamp": ["#000000", "#2a2a2a", "#7a7a7a", "#d0d0d0", "#ffffff"],
+    "bgLight": null
+  },
+  {
+    "id": "vert_lime",
+    "name": "Vert Lime",
+    "bgDark": "#010a06",
+    "leftRamp": ["#000a05", "#0a3a10", "#40c020", "#a0f060", "#e0ffd0"],
+    "rightRamp": ["#000a05", "#0a3a35", "#30b0a0", "#90e8e0", "#e0fffa"],
+    "bgLight": null
+  },
+  {
+    "id": "azur_violet",
+    "name": "Azur Violet",
+    "bgDark": "#05030f",
+    "leftRamp": ["#05030f", "#0a1a70", "#2070f0", "#80c8ff", "#e0f4ff"],
+    "rightRamp": ["#05030f", "#40107a", "#a030d0", "#e0a0f8", "#f8e8ff"],
+    "bgLight": null
+  },
+  {
+    "id": "blanc_noir",
+    "name": "Blanc & Noir",
+    "bgDark": "#000000",
+    "leftRamp": ["#000000", "#101010", "#505050", "#c0c0c0", "#ffffff"],
+    "rightRamp": ["#000000", "#262626", "#707070", "#d8d8d8", "#ffffff"],
+    "bgLight": null
+  },
+  {
+    "id": "arc_en_ciel",
+    "name": "Arc-en-ciel",
+    "bgDark": "#05030f",
+    "leftRamp": ["#0a0210", "#600808", "#e03018", "#ff9060", "#ffe0c8"],
+    "rightRamp": ["#05031a", "#1a1a90", "#6050e0", "#e080e8", "#fff0ff"],
+    "bgLight": null
+  },
+  {
+    "id": "citron_menthe",
+    "name": "Citron Menthe",
+    "bgDark": "#020a04",
+    "leftRamp": ["#050a02", "#304008", "#c8d020", "#e8f060", "#faffd0"],
+    "rightRamp": ["#02100a", "#0a4030", "#30c090", "#80f0d8", "#e0fff8"],
+    "bgLight": null
+  },
+  {
+    "id": "rouge",
+    "name": "Rouge Carmin",
+    "bgDark": "#0c0202",
+    "leftRamp": ["#0a0000", "#500606", "#e02010", "#ff7050", "#ffe0d8"],
+    "rightRamp": ["#0a0000", "#701010", "#ff5030", "#ffb090", "#fff0ec"],
+    "bgLight": null
+  },
+  {
+    "id": "marine",
+    "name": "Bleu Marine",
+    "bgDark": "#05040f",
+    "leftRamp": ["#05030f", "#0a1030", "#1a3a90", "#8aa0d0", "#e0e8f4"],
+    "rightRamp": ["#05030f", "#0a1a60", "#2a60d0", "#90b8f8", "#e0ecff"],
+    "bgLight": null
+  },
+  {
+    "id": "magenta",
+    "name": "Magenta",
+    "bgDark": "#06030f",
+    "leftRamp": ["#0a0210", "#4a0a40", "#e020a0", "#ff80d0", "#ffe0f4"],
+    "rightRamp": ["#06041a", "#2a1060", "#a040d0", "#e090f0", "#f8e8ff"],
+    "bgLight": null
+  },
+  {
+    "id": "menthe",
+    "name": "Menthe Glacée",
+    "bgDark": "#010a08",
+    "leftRamp": ["#000a06", "#0a3a28", "#40b070", "#a0e8c0", "#e8fff0"],
+    "rightRamp": ["#00100f", "#0a3a3a", "#308080", "#80c0c0", "#d8f0f0"],
+    "bgLight": null
+  },
+  {
+    "id": "violet_bleu",
+    "name": "Violet Bleu",
+    "bgDark": "#05030f",
+    "leftRamp": ["#05030f", "#2a0a60", "#9040e0", "#d8a0ff", "#f8e8ff"],
+    "rightRamp": ["#05030f", "#0a1a80", "#4070f0", "#a0c8ff", "#e8f4ff"],
+    "bgLight": null
+  },
+  {
+    "id": "orange",
+    "name": "Orange Solaire",
+    "bgDark": "#0c0200",
+    "leftRamp": ["#0a0200", "#601000", "#f06010", "#ffb040", "#fff0c0"],
+    "rightRamp": ["#0a0200", "#701008", "#ff4010", "#ff9060", "#ffe0d0"],
+    "bgLight": null
+  }
+]

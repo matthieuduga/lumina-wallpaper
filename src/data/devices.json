@@ -1,0 +1,412 @@
+[
+  {
+    "id": "mac-air-13",
+    "name": "MacBook Air 13\" (M2 / M3)",
+    "category": "mac",
+    "width": 2560,
+    "height": 1664,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "2560 × 1664 px (Liquid Retina 13.6\", 224 ppp)"
+  },
+  {
+    "id": "mac-air-15",
+    "name": "MacBook Air 15\" (M2 / M3)",
+    "category": "mac",
+    "width": 2880,
+    "height": 1864,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "2880 × 1864 px (Liquid Retina 15.3\", 224 ppp)"
+  },
+  {
+    "id": "mac-air-13-m1",
+    "name": "MacBook Air 13\" (M1 / Intel)",
+    "category": "mac",
+    "width": 2560,
+    "height": 1600,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "2560 × 1600 px (Retina 13.3\" 16:10, 227 ppp)"
+  },
+  {
+    "id": "mac-pro-14",
+    "name": "MacBook Pro 14\" (M1–M4)",
+    "category": "mac",
+    "width": 3024,
+    "height": 1964,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "3024 × 1964 px (Liquid Retina XDR 14.2\", 254 ppp)"
+  },
+  {
+    "id": "mac-pro-16",
+    "name": "MacBook Pro 16\" (M1–M4)",
+    "category": "mac",
+    "width": 3456,
+    "height": 2234,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "3456 × 2234 px (Liquid Retina XDR 16.2\", 254 ppp)"
+  },
+  {
+    "id": "mac-imac-24",
+    "name": "iMac 24\" 4.5K (M1–M4)",
+    "category": "mac",
+    "width": 4480,
+    "height": 2520,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "4480 × 2520 px (Retina 4.5K 23.5\", 218 ppp)"
+  },
+  {
+    "id": "mac-studio-27",
+    "name": "Studio Display 27\" 5K / iMac 27\"",
+    "category": "mac",
+    "width": 5120,
+    "height": 2880,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "5120 × 2880 px (Retina 5K 27\", 218 ppp)"
+  },
+  {
+    "id": "mac-pro-xdr-32",
+    "name": "Pro Display XDR 32\" 6K",
+    "category": "mac",
+    "width": 6016,
+    "height": 3384,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "6016 × 3384 px (Retina 6K 32\", 218 ppp)"
+  },
+  {
+    "id": "iphone-18-pro-max",
+    "name": "iPhone 18 Pro Max / 17 Pro Max / 16 Pro Max",
+    "category": "iphone",
+    "width": 1320,
+    "height": 2868,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1320 × 2868 px (6.9\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 18 Pro / 17 Pro / 16 Pro / 17",
+    "category": "iphone",
+    "width": 1206,
+    "height": 2622,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1206 × 2622 px (6.3\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-17-air",
+    "name": "iPhone Air / 17 Air",
+    "category": "iphone",
+    "width": 1260,
+    "height": 2736,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1260 × 2736 px (6.5\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus / 15 Plus / 15 Pro Max / 14 Pro Max",
+    "category": "iphone",
+    "width": 1290,
+    "height": 2796,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1290 × 2796 px (6.7\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16 / 15 / 15 Pro / 14 Pro",
+    "category": "iphone",
+    "width": 1179,
+    "height": 2556,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1179 × 2556 px (6.1\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-16e",
+    "name": "iPhone 16e / 14 / 13 / 13 Pro / 12",
+    "category": "iphone",
+    "width": 1170,
+    "height": 2532,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1170 × 2532 px (6.1\" Super Retina XDR OLED, 460 ppp)"
+  },
+  {
+    "id": "iphone-13-mini",
+    "name": "iPhone 13 mini / 12 mini",
+    "category": "iphone",
+    "width": 1080,
+    "height": 2340,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1080 × 2340 px (5.4\" Super Retina XDR OLED, 476 ppp)"
+  },
+  {
+    "id": "iphone-se-3",
+    "name": "iPhone SE (3e / 2e Gén)",
+    "category": "iphone",
+    "width": 750,
+    "height": 1334,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "750 × 1334 px (4.7\" Retina HD, 326 ppp)"
+  },
+  {
+    "id": "ipad-pro-13-m4",
+    "name": "iPad Pro 13\" (M4)",
+    "category": "ipad",
+    "width": 2064,
+    "height": 2752,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "2064 × 2752 px (13.0\" Ultra Retina XDR Tandem OLED, 264 ppp)"
+  },
+  {
+    "id": "ipad-pro-11-m4",
+    "name": "iPad Pro 11\" (M4)",
+    "category": "ipad",
+    "width": 1668,
+    "height": 2420,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1668 × 2420 px (11.1\" Ultra Retina XDR Tandem OLED, 264 ppp)"
+  },
+  {
+    "id": "ipad-air-13",
+    "name": "iPad Air 13\" (M2) / Pro 12.9\"",
+    "category": "ipad",
+    "width": 2048,
+    "height": 2732,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "2048 × 2732 px (12.9\" Liquid Retina, 264 ppp)"
+  },
+  {
+    "id": "ipad-air-11",
+    "name": "iPad Air 11\" (M2) / Air 5 / Air 4",
+    "category": "ipad",
+    "width": 1640,
+    "height": 2360,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1640 × 2360 px (10.9\" Liquid Retina, 264 ppp)"
+  },
+  {
+    "id": "ipad-10",
+    "name": "iPad (10e Gén)",
+    "category": "ipad",
+    "width": 1640,
+    "height": 2360,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1640 × 2360 px (10.9\" Liquid Retina, 264 ppp)"
+  },
+  {
+    "id": "ipad-9",
+    "name": "iPad (9e Gén)",
+    "category": "ipad",
+    "width": 1620,
+    "height": 2160,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1620 × 2160 px (10.2\" Retina, 264 ppp)"
+  },
+  {
+    "id": "ipad-mini",
+    "name": "iPad mini (A17 Pro / 6e Gén)",
+    "category": "ipad",
+    "width": 1488,
+    "height": 2266,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1488 × 2266 px (8.3\" Liquid Retina, 326 ppp)"
+  },
+  {
+    "id": "pc-fhd",
+    "name": "Full HD 1080p",
+    "category": "pc",
+    "width": 1920,
+    "height": 1080,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "1920 × 1080 px (16:9 Standard universel)"
+  },
+  {
+    "id": "pc-qhd",
+    "name": "QHD / 2K 1440p",
+    "category": "pc",
+    "width": 2560,
+    "height": 1440,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "2560 × 1440 px (16:9 Standard gaming & productivité)"
+  },
+  {
+    "id": "pc-4k",
+    "name": "4K UHD (2160p)",
+    "category": "pc",
+    "width": 3840,
+    "height": 2160,
+    "orientation": "desktop",
+    "scale": 1.5,
+    "description": "3840 × 2160 px (16:9 Ultra Haute Définition)"
+  },
+  {
+    "id": "pc-5k",
+    "name": "5K UHD",
+    "category": "pc",
+    "width": 5120,
+    "height": 2880,
+    "orientation": "desktop",
+    "scale": 2,
+    "description": "5120 × 2880 px (16:9 Haute densité de pixels)"
+  },
+  {
+    "id": "pc-ultrawide",
+    "name": "Ultrawide QHD 21:9",
+    "category": "pc",
+    "width": 3440,
+    "height": 1440,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "3440 × 1440 px (21:9 Format panoramique UWQHD)"
+  },
+  {
+    "id": "pc-ultrawide-fhd",
+    "name": "Ultrawide FHD 21:9",
+    "category": "pc",
+    "width": 2560,
+    "height": 1080,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "2560 × 1080 px (21:9 Format panoramique UWFHD)"
+  },
+  {
+    "id": "pc-super-ultrawide",
+    "name": "Super Ultrawide 32:9 (DQHD)",
+    "category": "pc",
+    "width": 5120,
+    "height": 1440,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "5120 × 1440 px (32:9 Double QHD 49\")"
+  },
+  {
+    "id": "pc-dual-4k",
+    "name": "Dual 4K Super Ultrawide 32:9",
+    "category": "pc",
+    "width": 7680,
+    "height": 2160,
+    "orientation": "desktop",
+    "scale": 1,
+    "description": "7680 × 2160 px (32:9 Samsung Odyssey Neo G9 57\")"
+  },
+  {
+    "id": "samsung-s25-ultra",
+    "name": "Samsung Galaxy S25 Ultra / S24 Ultra",
+    "category": "android",
+    "width": 1440,
+    "height": 3120,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1440 × 3120 px (Dynamic AMOLED 2X, QHD+)"
+  },
+  {
+    "id": "samsung-s25-plus",
+    "name": "Samsung Galaxy S25+ / S24+",
+    "category": "android",
+    "width": 1440,
+    "height": 3120,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1440 × 3120 px (Dynamic AMOLED 2X, QHD+)"
+  },
+  {
+    "id": "samsung-s25",
+    "name": "Samsung Galaxy S25 / S24",
+    "category": "android",
+    "width": 1080,
+    "height": 2340,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1080 × 2340 px (Dynamic AMOLED 2X, FHD+)"
+  },
+  {
+    "id": "samsung-z-fold-6-inner",
+    "name": "Samsung Galaxy Z Fold 6 (Écran Pliable)",
+    "category": "android",
+    "width": 1856,
+    "height": 2160,
+    "orientation": "mobile",
+    "scale": 2,
+    "description": "1856 × 2160 px (7.6\" QXGA+ Dynamic AMOLED 2X)"
+  },
+  {
+    "id": "samsung-z-fold-6-cover",
+    "name": "Samsung Galaxy Z Fold 6 (Écran Externe)",
+    "category": "android",
+    "width": 968,
+    "height": 2376,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "968 × 2376 px (6.3\" HD+ Dynamic AMOLED 2X)"
+  },
+  {
+    "id": "samsung-z-flip-6",
+    "name": "Samsung Galaxy Z Flip 6",
+    "category": "android",
+    "width": 1080,
+    "height": 2640,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1080 × 2640 px (6.7\" Dynamic AMOLED 2X, FHD+)"
+  },
+  {
+    "id": "pixel-9-pro-xl",
+    "name": "Google Pixel 9 Pro XL / 8 Pro",
+    "category": "android",
+    "width": 1344,
+    "height": 2992,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1344 × 2992 px (6.8\" Super Actua OLED, LTPO)"
+  },
+  {
+    "id": "pixel-9-pro",
+    "name": "Google Pixel 9 Pro",
+    "category": "android",
+    "width": 1280,
+    "height": 2856,
+    "orientation": "mobile",
+    "scale": 3,
+    "description": "1280 × 2856 px (6.3\" Super Actua OLED, LTPO)"
+  },
+  {
+    "id": "pixel-9",
+    "name": "Google Pixel 9",
+    "category": "android",
+    "width": 1080,
+    "height": 2424,
+    "orientation": "mobile",
+    "scale": 2.6,
+    "description": "1080 × 2424 px (6.3\" Actua OLED, 422 ppi)"
+  },
+  {
+    "id": "pixel-8a",
+    "name": "Google Pixel 8a / 8",
+    "category": "android",
+    "width": 1080,
+    "height": 2400,
+    "orientation": "mobile",
+    "scale": 2.6,
+    "description": "1080 × 2400 px (6.1\" Actua OLED, 430 ppi)"
+  }
+]

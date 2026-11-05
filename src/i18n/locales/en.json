@@ -1,0 +1,174 @@
+{
+  "app": {
+    "title": "Lumina",
+    "subtitle": "Generative Wallpaper Studio",
+    "description": "Create elegant, high-fidelity wallpapers for all your devices in seconds. 100% private, client-side WebGL.",
+    "github": "GitHub Repository",
+    "themeAuto": "System Auto",
+    "themeLight": "Light Mode",
+    "themeDark": "Dark Mode"
+  },
+  "steps": {
+    "style": "Style",
+    "device": "Device",
+    "colors": "Colors",
+    "theme": "Theme",
+    "download": "Export"
+  },
+  "step1": {
+    "title": "Choose Wallpaper Style",
+    "subtitle": "Select a generative aesthetic engine. More styles are added regularly.",
+    "active": "Active Style",
+    "comingSoon": "Coming Soon"
+  },
+  "step2": {
+    "title": "Choose Your Device",
+    "subtitle": "Select from officially measured resolutions or set custom dimensions.",
+    "categories": {
+      "mac": "Mac",
+      "iphone": "iPhone",
+      "ipad": "iPad",
+      "pc": "PC & Displays",
+      "android": "Android",
+      "custom": "Custom"
+    },
+    "custom": {
+      "title": "Custom Resolution",
+      "width": "Width (px)",
+      "height": "Height (px)",
+      "detect": "Detect My Screen",
+      "detected": "Detected Screen"
+    },
+    "orientation": {
+      "title": "Capsule Orientation",
+      "desktop": "Desktop (Vertical pills side-by-side)",
+      "mobile": "Mobile (Horizontal pills stacked)",
+      "toggle": "Switch Orientation"
+    },
+    "quality": {
+      "title": "Render Quality",
+      "native": "1× Native",
+      "supersample15": "1.5× Supersampling",
+      "supersample20": "2× Retina Sharp (High RAM)",
+      "warning": "2× supersampling produces enormous image files (e.g. 10240×6656 px) and may take longer to export."
+    }
+  },
+  "step3": {
+    "title": "Configure Colors",
+    "subtitle": "Choose an official palette, roll a harmonious combination, or design your own.",
+    "tabs": {
+      "presets": "16 Curated Palettes",
+      "random": "Harmonious Randomizer",
+      "custom": "Custom Color Lab"
+    },
+    "random": {
+      "surprise": "Surprise Me",
+      "mode": "Harmony Rule",
+      "seed": "Seed",
+      "lockLeft": "Lock Left Ramp",
+      "lockRight": "Lock Right Ramp",
+      "history": "History",
+      "undo": "Undo",
+      "redo": "Redo"
+    },
+    "custom": {
+      "darkBg": "Dark Background",
+      "lightBg": "Light Background (Optional)",
+      "leftRamp": "Left Capsule Ramp (5 colors: dark to bright)",
+      "rightRamp": "Right Capsule Ramp (5 colors: dark to bright)",
+      "exportJson": "Export JSON",
+      "importJson": "Import JSON",
+      "copyShare": "Copy Shareable Link",
+      "copied": "Link copied to clipboard!"
+    }
+  },
+  "language": {
+    "title": "Select Language",
+    "searchPlaceholder": "Search language or country...",
+    "noResults": "No matching language found",
+    "active": "Active",
+    "autoDetectNotice": "Browser language auto-detection enabled"
+  },
+  "themeModal": {
+    "title": "Select Site Theme",
+    "searchPlaceholder": "Search theme (Auto, Light, Dark)...",
+    "noResults": "No matching theme found",
+    "active": "Active",
+    "autoTitle": "System Auto",
+    "autoDesc": "Automatically switches with your device appearance",
+    "lightTitle": "Light Mode",
+    "lightDesc": "Clean, luminous daytime aesthetic",
+    "darkTitle": "Dark Mode",
+    "darkDesc": "Relaxing OLED-friendly dark appearance"
+  },
+  "creations": {
+    "title": "My Saved Creations",
+    "shortTitle": "Creations",
+    "subtitle": "Wallpapers you've generated in Lumina Studio",
+    "searchPlaceholder": "Search by palette, device, theme...",
+    "emptyTitle": "No wallpapers generated yet",
+    "emptyDesc": "Customize your capsules and click 'Generate Wallpaper' at Step 4 to save them here.",
+    "noMatch": "No matching creations",
+    "noMatchDesc": "Try a different search keyword.",
+    "share": "Share",
+    "delete": "Delete",
+    "clearAll": "Clear History",
+    "clickToRestore": "Click any creation to reload its configuration into the studio"
+  },
+  "step4": {
+    "title": "Appearance & Theme",
+    "subtitle": "Choose your presentation mode or generate dynamic multi-appearance wallpapers.",
+    "generateButton": "Generate Wallpaper",
+    "previewToggleLabel": "Live Preview Mode:",
+    "previewToggleHint": "Switch between the light and dark appearances generated in your dynamic wallpaper pack.",
+    "light": {
+      "title": "Light Theme",
+      "description": "Crisp daytime aesthetic with subtle shadows and luminous glass refractions."
+    },
+    "dark": {
+      "title": "Dark Theme",
+      "description": "Deep OLED backgrounds with vibrant caustic specular highlights and ambient glow."
+    },
+    "auto": {
+      "title": "Auto (Dynamic macOS)",
+      "description": "Generates a native Apple Dynamic .HEIC wallpaper that seamlessly shifts between day and night matching macOS system appearance."
+    }
+  },
+  "preview": {
+    "livePreview": "WebGL 2.0 Live Preview",
+    "toggleFullscreen": "Toggle Fullscreen",
+    "customScreen": "Custom Screen",
+    "previewTheme": "Preview Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "modeDynamic": "Dynamic Duo",
+    "switchPreview": "Switch preview"
+  },
+  "step5": {
+    "title": "Download & Setup Guide",
+    "subtitle": "Your high-resolution wallpaper is rendered. Follow the contextual guide for your device.",
+    "downloadSingle": "Download PNG ({res})",
+    "downloadZip": "Download ZIP (Light + Dark Pack)",
+    "downloadHeic": "Download Dynamic .HEIC ({res})",
+    "downloadHeicDesc": "Native macOS dynamic wallpaper with automatic Light & Dark switching",
+    "downloadLightPng": "Download Light PNG",
+    "downloadDarkPng": "Download Dark PNG",
+    "heicUnsupported": "Direct .HEIC hardware encoding is supported on Safari and Chrome on macOS. You can download the paired PNGs below.",
+    "shareCardTitle": "Share Your Creation",
+    "shareCardSubtitle": "Anyone with this short link will load your exact wallpaper configuration instantly.",
+    "copyButton": "Copy Link",
+    "nativeShare": "Share...",
+    "shareLink": "Share this Configuration",
+    "copied": "Link copied to clipboard!",
+    "guideTitle": "Installation Instructions for {os}",
+    "rendering": "Rendering wallpaper at native resolution...",
+    "encodingHeic": "Encoding native Apple Dynamic .HEIC container...",
+    "success": "Download ready! 🎉"
+  },
+  "common": {
+    "prev": "Previous",
+    "next": "Next Step",
+    "px": "px",
+    "close": "Close"
+  }
+}
